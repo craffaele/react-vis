@@ -1,7 +1,7 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
 import {interpolate} from 'd3-interpolate';
-import {spring, Motion, presets} from 'react-motion';
+import {spring, Motion, presets} from '@korbav/react-motion';
 
 const ANIMATION_PROPTYPES = PropTypes.oneOfType([
   PropTypes.string,
