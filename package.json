@@ -4,7 +4,6 @@
   "license": "MIT",
   "author": "Visualization Team <visualization@uber.com>",
   "description": "Data visualization library based on React and d3.",
-  "private": true,
   "workspaces": [
     "packages/showcase",
     "packages/react-vis",
